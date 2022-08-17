@@ -1,1 +1,1 @@
-Get-AzUsers
+Get-AzUsers | select all
